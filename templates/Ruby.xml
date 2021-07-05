@@ -1,0 +1,22 @@
+<templateSet group="Ruby">
+  <template name="pd" value="p '*' * 50&#10;p $SELECTION$&#10;p '*' * 50" description="print debug" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
+  <template name="rspec_stdout_off" value="config.before(:each) do&#10;  allow($stdout).to receive(:write)&#10;end" description="Use in rails_helper.rb to turn off stdout" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
+  <template name="bm" value="require 'benchmark'&#10;Benchmark.bm 15 do |r|&#10;  r.report &quot;~&quot; do&#10;    # do something&#10;  end&#10;  &#10;  r.report &quot;~&quot; do&#10;    # do something&#10;  end&#10;end" description="benchmark short cut" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
+  <template name="bp" value="binding.pry" description="binding.pry" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
+</templateSet>
