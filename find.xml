@@ -24,8 +24,8 @@
     <mask>*.html</mask>
     <mask>*.vue</mask>
     <mask>*.js</mask>
-    <mask>*.rb</mask>
     <mask>*.html.erb</mask>
+    <mask>*.rb</mask>
     <mask>*.rb</mask>
   </component>
 </application>
