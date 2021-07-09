@@ -9,7 +9,7 @@
       <option name="RUBY" value="true" />
     </context>
   </template>
-  <template name="bm" value="require 'benchmark'&#10;Benchmark.bm 15 do |r|&#10;  r.report &quot;~&quot; do&#10;    # do something&#10;  end&#10;  &#10;  r.report &quot;~&quot; do&#10;    # do something&#10;  end&#10;end" description="benchmark short cut" toReformat="false" toShortenFQNames="true">
+  <template name="bm" value="require 'benchmark'&#10;Benchmark.bm 15 do |r|&#10;  trials = 100&#10;  r.report &quot;~&quot; do&#10;    trials.times { }&#10;  end&#10;&#10;  r.report &quot;~&quot; do&#10;    trials.times { }&#10;  end&#10;end" description="benchmark short cut" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="RUBY" value="true" />
     </context>
