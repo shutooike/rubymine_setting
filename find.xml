@@ -18,8 +18,8 @@
     <mask>*.js</mask>
     <mask>*.html.erb</mask>
     <mask>*.ts</mask>
+    <mask>*.rb</mask>
+    <mask>*.rb</mask>
     <mask>*.vue</mask>
-    <mask>*.rb</mask>
-    <mask>*.rb</mask>
   </component>
 </application>
