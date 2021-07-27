@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.vue" />
     <mask>*.css</mask>
     <mask>*.xml</mask>
     <mask>*.ru</mask>
@@ -19,7 +20,7 @@
     <mask>*.html.erb</mask>
     <mask>*.rb</mask>
     <mask>*.rb</mask>
-    <mask>*.vue</mask>
     <mask>*.ts</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
