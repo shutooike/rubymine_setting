@@ -19,4 +19,9 @@
       <option name="RUBY" value="true" />
     </context>
   </template>
+  <template name="logoff" value="old_logger = ActiveRecord::Base.logger&#10;begin&#10;  ActiveRecord::Base.logger = nil&#10;  # do something&#10;ensure&#10;  ActiveRecord::Base.logger = old_logger&#10;end" description="logger off" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
 </templateSet>
