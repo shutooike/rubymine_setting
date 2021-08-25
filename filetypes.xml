@@ -1,8 +1,10 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="raInputAddress.js" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
+      <mapping ext="jb" type="Ruby" />
+      <mapping ext="rabl" type="Ruby" />
     </extensionMap>
   </component>
 </application>
