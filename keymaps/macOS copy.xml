@@ -9,9 +9,15 @@
     <keyboard-shortcut first-keystroke="shift back_space" />
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="ctrl meta minus" />
+  </action>
   <action id="EditorDelete">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="ctrl meta equals" />
   </action>
   <action id="FindNext" />
   <action id="Github.Open.In.Browser">
@@ -31,4 +37,5 @@
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="UsageGrouping.DirectoryStructure" />
   <action id="Vcs.UpdateProject" />
+  <action id="ZoomCurrentWindow" />
 </keymap>
