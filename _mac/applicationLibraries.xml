@@ -564,6 +564,22 @@
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1835148091/usr/local/bundle/gems/bundler-2.2.16/exe" />
       </excluded>
     </library>
+    <library name="bundler (v2.2.17, Remote: ruby-2.6.6-p146) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1835148091/usr/local/bundle/gems/bundler-2.2.17/exe" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1835148091/usr/local/bundle/gems/bundler-2.2.17/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1835148091/usr/local/bundle/gems/bundler-2.2.17/exe" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1835148091/usr/local/bundle/gems/bundler-2.2.17/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1835148091/usr/local/bundle/gems/bundler-2.2.17/exe" />
+      </excluded>
+    </library>
     <library name="byebug (v11.0.1, Remote: ruby-2.6.6-p146) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
