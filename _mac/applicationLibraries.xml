@@ -3544,7 +3544,7 @@
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1835148091/usr/local/bundle/gems/rb-inotify-0.10.1/spec" />
       </excluded>
     </library>
-    <library name="rdoc (v6.1.2, Remote: ruby-2.6.6-p146) [gem]" type="rubylib">
+    <library name="rdoc (v6.1.2.1, Remote: ruby-2.6.6-p146) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
@@ -3772,7 +3772,7 @@
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1835148091/usr/local/bundle/gems/responders-2.4.1/lib" />
       </SOURCES>
     </library>
-    <library name="rexml (v3.1.9, Remote: ruby-2.6.6-p146) [gem]" type="rubylib">
+    <library name="rexml (v3.1.9.1, Remote: ruby-2.6.6-p146) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
@@ -5027,7 +5027,7 @@
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1835148091/usr/local/bundle/gems/webmock-3.7.6/minitest" />
       </excluded>
     </library>
-    <library name="webrick (v1.4.2, Remote: ruby-2.6.6-p146) [gem]" type="rubylib">
+    <library name="webrick (v1.4.4, Remote: ruby-2.6.6-p146) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
