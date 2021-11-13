@@ -3,6 +3,7 @@
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.css</mask>
     <mask>*.xml</mask>
     <mask>*.ru</mask>
@@ -19,8 +20,8 @@
     <mask>*.erb</mask>
     <mask>*.html</mask>
     <mask>*.vue</mask>
+    <mask>*.rb</mask>
+    <mask>*.rb</mask>
     <mask>*.js</mask>
-    <mask>*.rb</mask>
-    <mask>*.rb</mask>
   </component>
 </application>
