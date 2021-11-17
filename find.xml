@@ -1,26 +1,28 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Default Changelist" />
-    <option name="defaultScopeName" value="Default Changelist" />
-    <option name="SEARCH_SCOPE" value="Default Changelist" />
-    <mask>*.css</mask>
-    <mask>*.xml</mask>
-    <mask>*.ru</mask>
-    <mask>*.gemspec</mask>
-    <mask>*.thor</mask>
-    <mask>*.jbuilder</mask>
-    <mask>*.rake</mask>
-    <mask>*.rbw</mask>
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.scss</mask>
     <mask>.js</mask>
     <mask>*.scss</mask>
     <mask>*.html.erb</mask>
     <mask>*.ts</mask>
     <mask>*.erb</mask>
-    <mask>*.html</mask>
     <mask>*.vue</mask>
     <mask>*.rb</mask>
-    <mask>*.rb</mask>
     <mask>*.js</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.rabl</mask>
+    <mask>*.jb</mask>
+    <mask>*.ru</mask>
+    <mask>*.thor</mask>
+    <mask>*.jbuilder</mask>
+    <mask>*.gemspec</mask>
+    <mask>*.rake</mask>
+    <mask>*.rbw</mask>
+    <mask>*.rb</mask>
   </component>
 </application>
