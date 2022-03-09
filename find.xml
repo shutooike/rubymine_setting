@@ -5,12 +5,12 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>.js</mask>
     <mask>*.html.erb</mask>
     <mask>*.ts</mask>
     <mask>*.erb</mask>
     <mask>*.vue</mask>
-    <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*.scss</mask>
     <mask>*.rb</mask>
@@ -26,5 +26,6 @@
     <mask>*.rake</mask>
     <mask>*.rbw</mask>
     <mask>*.rb</mask>
+    <mask>*.js</mask>
   </component>
 </application>
