@@ -9,7 +9,6 @@
     <mask>*.html.erb</mask>
     <mask>*.ts</mask>
     <mask>*.erb</mask>
-    <mask>*.vue</mask>
     <mask>*.scss</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
@@ -26,5 +25,6 @@
     <mask>*.rake</mask>
     <mask>*.rbw</mask>
     <mask>*.rb</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
