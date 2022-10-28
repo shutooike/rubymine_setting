@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Resource.js" />
     <mask>.js</mask>
     <mask>*.html.erb</mask>
     <mask>*.erb</mask>
@@ -25,5 +26,6 @@
     <mask>*.ts</mask>
     <mask>*.vue</mask>
     <mask>*.js</mask>
+    <mask>*Resource.js</mask>
   </component>
 </application>
