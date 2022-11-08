@@ -3,12 +3,18 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yaml" />
     <mask>.js</mask>
     <mask>*.html.erb</mask>
     <mask>*.erb</mask>
     <mask>*.scss</mask>
     <mask>*.scss</mask>
     <mask>*spec.rb</mask>
+    <mask>*.ts</mask>
+    <mask>*.vue</mask>
+    <mask>*Resource.js</mask>
+    <mask>*.js</mask>
+    <mask>*.rb</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -20,11 +26,7 @@
     <mask>*.gemspec</mask>
     <mask>*.rake</mask>
     <mask>*.rbw</mask>
-    <mask>*.ts</mask>
-    <mask>*.vue</mask>
-    <mask>*Resource.js</mask>
-    <mask>*.js</mask>
     <mask>*.rb</mask>
-    <mask>*.rb</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
