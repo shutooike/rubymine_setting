@@ -4,6 +4,7 @@
       <mapping pattern="outbound.txt" type="AUTO_DETECTED" />
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern="raInputAddress.js" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="jb" type="Ruby" />
       <mapping ext="rabl" type="Ruby" />
