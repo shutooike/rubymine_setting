@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
     <mask>.js</mask>
     <mask>*.html.erb</mask>
@@ -13,6 +15,8 @@
     <mask>*.js</mask>
     <mask>*.yaml</mask>
     <mask>*.ts</mask>
+    <mask>*.vue</mask>
+    <mask>*.rb</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -24,8 +28,6 @@
     <mask>*.gemspec</mask>
     <mask>*.rake</mask>
     <mask>*.rbw</mask>
-    <mask>*.vue</mask>
-    <mask>*.rb</mask>
     <mask>*.rb</mask>
   </component>
 </application>
