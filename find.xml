@@ -3,6 +3,7 @@
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>.js</mask>
     <mask>*.html.erb</mask>
     <mask>*.erb</mask>
@@ -24,8 +25,8 @@
     <mask>*.gemspec</mask>
     <mask>*.rake</mask>
     <mask>*.rbw</mask>
+    <mask>*.rb</mask>
+    <mask>*.rb</mask>
     <mask>*.ts</mask>
-    <mask>*.rb</mask>
-    <mask>*.rb</mask>
   </component>
 </application>
