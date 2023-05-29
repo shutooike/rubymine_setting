@@ -24,9 +24,9 @@
     <mask>*.gemspec</mask>
     <mask>*.rake</mask>
     <mask>*.rbw</mask>
-    <mask>*.rb</mask>
     <mask>*.ts</mask>
     <mask>*.vue</mask>
+    <mask>*.rb</mask>
     <mask>*.rb</mask>
   </component>
 </application>
