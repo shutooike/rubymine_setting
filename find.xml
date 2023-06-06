@@ -30,8 +30,8 @@
     <mask>*.gemspec</mask>
     <mask>*.rake</mask>
     <mask>*.rbw</mask>
-    <mask>*.rb</mask>
     <mask>*_spec.rb</mask>
+    <mask>*.rb</mask>
     <mask>*.rb</mask>
   </component>
 </application>
