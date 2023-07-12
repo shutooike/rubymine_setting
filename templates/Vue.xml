@@ -1,0 +1,7 @@
+<templateSet group="Vue">
+  <template name="cbase" value="&lt;template&gt;&#10;&lt;/template&gt;&#10;&#10;&#10;&lt;script lang=&quot;ts&quot;&gt;&#10;import { defineComponent } from '@vue/composition-api';&#10;&#10;export default defineComponent({&#10;});&#10;&lt;/script&gt;&#10;" description="component base" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+</templateSet>
