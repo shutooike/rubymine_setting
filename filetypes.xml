@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="sha256:febcc7cbfcc19b8b944f3d3504fff50f0bb6ff44e89a3732ea705ed0b0698287" type="AUTO_DETECTED" />
+      <mapping pattern="outbound.txt" type="AUTO_DETECTED" />
+      <mapping pattern=".env.test" type="PLAIN_TEXT" />
+      <mapping pattern="raInputAddress.js" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping ext="text" type="PLAIN_TEXT" />
+      <mapping ext="jb" type="Ruby" />
+      <mapping ext="rabl" type="Ruby" />
+    </extensionMap>
+  </component>
+</application>
