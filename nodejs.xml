@@ -1,5 +1,11 @@
 <application>
   <component name="NodeJsLocalInterpreterManager">
-    <local-interpreter path="$USER_HOME$/.nodebrew/current/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nodebrew/current/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+  </component>
+  <component name="NodeJsRemoteInterpreters">
+    <interpreter node-remote-interpreter="docker://activefollow-rails-vite:latest/node" INTERPRETER_PATH="node" HELPERS_PATH=".webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" VERSION="" OUTDATED_ID="" DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="activefollow-rails-vite:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" />
+    <interpreter node-remote-interpreter="docker://activefollow-rails-webpack:latest/node" INTERPRETER_PATH="node" HELPERS_PATH=".webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" VERSION="" OUTDATED_ID="" DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="activefollow-rails-webpack:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" />
   </component>
 </application>
