@@ -5,8 +5,9 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.rb</mask>
+    <option name="FILE_MASK" value="*.rb" />
     <mask>*.vue</mask>
     <mask>*.ts</mask>
+    <mask>*.rb</mask>
   </component>
 </application>
