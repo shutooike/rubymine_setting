@@ -2,9 +2,12 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.vue</mask>
+    <option name="FILE_MASK" value="*.vue" />
     <mask>*.ts</mask>
     <mask>*.rb</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
