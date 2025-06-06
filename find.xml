@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="relation-faq-2.csv" />
+    <option name="FILE_MASK" value="*.csv" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -25,5 +25,6 @@
     <mask>*.rb</mask>
     <mask>*.txt</mask>
     <mask>relation-faq-2.csv</mask>
+    <mask>*.csv</mask>
   </component>
 </application>
