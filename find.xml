@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.rb" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -17,11 +18,11 @@
     <mask>*.rbi</mask>
     <mask>*spec.rb</mask>
     <mask>*.vue</mask>
-    <mask>*.rb</mask>
     <mask>*.txt</mask>
     <mask>relation-faq-2.csv</mask>
     <mask>*.csv</mask>
     <mask>*.ts</mask>
     <mask>*.yml</mask>
+    <mask>*.rb</mask>
   </component>
 </application>
